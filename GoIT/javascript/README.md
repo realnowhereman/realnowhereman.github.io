@@ -1,1 +1,1 @@
-GoIT Frontend Markup homeworks
+GoIT Frontend JS homeworks
